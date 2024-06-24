@@ -376,13 +376,13 @@
 
 .footer__list-item {
   margin-top: 16px;
-  display: flex;
-  align-items: center;
 }
 
 .footer__column-link {
   color: white;
   text-decoration: none;
+  display: flex;
+  align-items: center;
 }
 
 .footer__social-icon {
